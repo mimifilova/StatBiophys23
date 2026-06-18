@@ -1,2 +1,2 @@
 ## class presentation: pres-statbio.pdf
-## code: project1-evoution-GSM.ipynb
+## code: project1-evolution-GSM.ipynb
